@@ -1,0 +1,62 @@
+body {
+  background-color: #efeee7;
+  font-family: Georgia, "Times Now Roman", serif;
+  color: #333333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333333c5;
+  padding: 20px;
+}
+
+h1 {
+  color: #eee;
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+.container {
+  width: auto;
+  margin: 0 auto;
+  padding-block: 5px;
+}
+
+#myName {
+  font-size: 40px;
+  font-weight: bold;
+  color: ##333333;
+}
+/* centered main bio for style
+ */
+#main_bio {
+  float: left;
+  width: auto;
+  line-height: 1.5;
+  padding: 2.5%;
+  margin: auto 0%;
+}
+
+#bio-image {
+  float: left;
+  width: 200px;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+/* moved contact info to below the bio for readability
+ */
+#contactInfo {
+  float: left;
+  width: auto;
+  line-height: 1.5;
+  padding: 2.5%;
+  margin: Auto 20px;
+}
+
+a {
+  color: #d21034;
+}
